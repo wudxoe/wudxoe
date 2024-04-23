@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </a>
 </div>
 <p align="center">
-  <img src="docs/images/maplestory-icon.png" width="100px" height="100px"/>
+  <img src="maplestory-icon.png" width="100px" height="100px"/>
 </p>
