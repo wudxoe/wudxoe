@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
-<p align="center">
-  <img src="maplestory-icon.png" width="100px" height="100px"/>
+<p>
+  <a href="https://maplestory.nexon.com/Home/Main#close" target="_blank">
+    <img src="maplestory-icon.png" width="50px" height="50px" alt="MapleStory Icon"/>
+  </a>
 </p>
