@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-<a href="https://na-hollo.tistory.com/">
+<a href="https://wudxoe.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" size = 100>
 </a>
-<a href="https://github.com/nahollo/">
+<a href="https://github.com/wudxoe/">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
