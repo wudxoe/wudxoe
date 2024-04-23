@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
+<div>
+<img src="https://img.shields.io/badge/Maplestory-F80000?style=for-the-badge&logo=Maplestory&logoColor=white">
+</div>
