@@ -34,6 +34,6 @@ Here are some ideas to get you started:
     <img src="maplestory-icon.png" width="50px" height="50px" alt="MapleStory Icon"/>
   </a>
   <a href="https://careers.kakao.com/index" target="_blank">
-    <img src="kakao_icon.png" width="100px" height="50px" alt="Kakao Icon"/>
+    <img src="kakao_icon.png" width="150px" height="50px" alt="Kakao Icon"/>
   </a>
 </p>
