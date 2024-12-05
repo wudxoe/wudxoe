@@ -33,4 +33,7 @@ Here are some ideas to get you started:
   <a href="https://maplestory.nexon.com/Home/Main#close" target="_blank">
     <img src="maplestory-icon.png" width="50px" height="50px" alt="MapleStory Icon"/>
   </a>
+  <a href="https://careers.kakao.com/index" target="_blank">
+    <img src="kakao_iconicon.png" width="100px" height="50px" alt="Kakao Icon"/>
+  </a>
 </p>
